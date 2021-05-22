@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting started with TensorFlow JS 
+## FaceDetection using Tensorflow JS, ReactJs and NPM
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
